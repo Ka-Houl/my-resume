@@ -526,6 +526,12 @@ img#home_photo2 {
 #skill_icon4{
     background: url(../image/js.png) no-repeat ;
 }
+#skill_icon5{
+    background: url(../image/react.png) no-repeat ;
+}
+#skill_icon6{
+    background: url(../image/vue.png) no-repeat ;
+}
 .skill_name {
 	text-align: center;
 	width: 100%;
